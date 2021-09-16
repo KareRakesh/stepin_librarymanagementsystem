@@ -3,3 +3,8 @@ Student Record System are often viewed as paperwork produed for the education bu
 
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/KareRakesh/stepin_librarymanagementsystem/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/KareRakesh/stepin_librarymanagementsystem/actions/workflows/c-cpp.yml)
+<a href="https://frontend.code-inspector.com/public/user/github/KareRakesh">
+   <img src="https://code-inspector.com/public/badge/user/github/KareRakesh?style=light" alt="code inspector badge" />
+  <img src="https://www.code-inspector.com/project/28779/score/svg"/>
+  <img src="https://www.code-inspector.com/project/28779/status/svg"/>
+</a>
