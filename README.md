@@ -8,3 +8,4 @@ Student Record System are often viewed as paperwork produed for the education bu
   <img src="https://www.code-inspector.com/project/28779/score/svg"/>
   <img src="https://www.code-inspector.com/project/28779/status/svg"/>
 </a>
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/952a97af89684894af206be8ae4d0e9f)](https://www.codacy.com/gh/KareRakesh/stepin_librarymanagementsystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=KareRakesh/stepin_librarymanagementsystem&amp;utm_campaign=Badge_Grade)
